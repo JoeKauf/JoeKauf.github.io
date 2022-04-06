@@ -33,13 +33,13 @@ Ethics Papers
 
 ### [Testing and Therac-25](/pdf/CSCI315 Ethics Paper Joseph Kaufman (1).docx)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 315 Data Structures Analysis**  
+-   **Grade: In Progress**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Rushing Code to Market](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325 Object Oriented Programming** 
+-   **Grade: A**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
