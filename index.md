@@ -43,8 +43,8 @@ Ethics Papers
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301 Survey of Scripting Languages** 
+-   **Grade: A**
 
 ---
 
