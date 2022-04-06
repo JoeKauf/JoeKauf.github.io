@@ -36,7 +36,7 @@ Ethics Papers
 -   **Class: CSCI 315 Data Structures Analysis**  
 -   **Grade: In Progress**
 
-### [Ethics of Rushing Code to Market](/pdf/sample_presentation.pdf)
+### [Ethics of Rushing Code to Market](/pdf/CSCI 325 Ethics Paper JAKaufman.docx)
 
 -   **Class: CSCI 325 Object Oriented Programming** 
 -   **Grade: A**
