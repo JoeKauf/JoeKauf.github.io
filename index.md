@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Testing and Therac-25](/pdf/CSCI315 Ethics Paper Joseph Kaufman (1).docx)
 
 -   **Class:**  
 -   **Grade:**
