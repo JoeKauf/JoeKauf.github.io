@@ -11,18 +11,14 @@
 
 ## Project description
 
-This program takes in HTML files and parses them. After parsing it checks to see if pages are balanced and how many unique links are in each page.
+This program takes in HTML files and parses them. After parsing it checks to see if pages are balanced and how many unique links are in each page. This program seeks to simulate webscraping.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 ```bash
-cd ./project
-python setup.py
+cd ./Project2
+make run
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
