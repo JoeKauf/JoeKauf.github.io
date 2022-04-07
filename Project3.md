@@ -51,8 +51,11 @@ Fig 1. Command line
 ![screenshot](images/MapOutData.png)  
 Fig 2. Data.out timings
 
+![screenshot](images/PerfHowMany.png)  
+Fig 3. Performance graph for finding number of names containing a prefix
+
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 4. Performance graph for finding a name and its associated ID
 
 ## 3. Additional Considerations
 
