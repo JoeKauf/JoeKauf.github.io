@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eius
 ![screenshot](images/HTML.png)  
 Fig 1. HTML file to be parsed
 
-![screenshot]()  
+![screenshot](images/End.png)  
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/ParsingEnd.png)  
