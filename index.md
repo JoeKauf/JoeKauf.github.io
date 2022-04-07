@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [HTML Parser | CSCI 315](project2)
+### [HTML Parser | CSCI 315](Project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Large Map | CSCI 315](project3)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/HTML.png)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Large Map | CSCI 315](Project3)
+
+![Project 3 Thumbnail Name](images/PerfHowMany.png)
+
+---
+### [Project 4 Title | CSCI 332](Project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
