@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eius
 ![screenshot](images/HTML.png)  
 Fig 1. The launch screen
 
-![screenshot](images/ParseBandP.png)  
+![screenshot](images/ParsingEnd.png)  
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
