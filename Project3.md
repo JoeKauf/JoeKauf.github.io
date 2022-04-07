@@ -59,7 +59,7 @@ Fig 4. Performance graph for finding a name and its associated ID
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This program requires someone to be familiar with some C++ in order to manipulate data. Although the searching for names and getting IDs is Log(N), insertion is not.  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
