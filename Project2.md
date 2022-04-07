@@ -1,5 +1,5 @@
 [Back to Portfolio](./)
-HTML Parser
+ HTML Parser
 ===============
 
 -   **Class: CSCI 315** 
