@@ -16,9 +16,13 @@ This program is used to find a certain name from a file in an efficient amount o
 ## How to compile and run the program
 
 Commands and their uses:
+
 plot - compiles the program
+
 data.out - outputs data from file to a file which will need to be renamed
+
 data.pdf - graphs the data from 3 renamed files
+
 mv data.out file.txt - renames data.out to the desired name
 
 ```bash
