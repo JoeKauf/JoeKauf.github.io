@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eius
 ![screenshot](images/MapCommands.png)  
 Fig 1. The launch screen
 
-![screenshot](images/MapDataOut.png)  
+![screenshot](images/MapOutData.png)  
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
