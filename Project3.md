@@ -46,10 +46,10 @@ The user interface is a commandline interface which is operated by user makefile
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
 ![screenshot](images/MapCommands.png)  
-Fig 1. The launch screen
+Fig 1. Command line
 
 ![screenshot](images/MapOutData.png)  
-Fig 2. Example output after input is processed.
+Fig 2. Data.out timings
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 3. Feedback when an error occurs.
