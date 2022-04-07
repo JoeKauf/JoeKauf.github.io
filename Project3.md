@@ -34,8 +34,8 @@ make data.pdf
 ```
 
 Note: You will have to change the size in "file-helper2.cpp" to get different sizes to measure the graphs. Find line 12 and change X to a number 50,000 or less. The program must be recompiled three times to be able to plot for the three sizes.
-```bash
-const int MAX_NAME_COUNT = X;
+```file-helper2.cpp
+12 const int MAX_NAME_COUNT = X;
 ```
 
 
