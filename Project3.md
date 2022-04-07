@@ -54,7 +54,7 @@ Fig 2. Data.out timings
 ![screenshot](images/PerfHowMany.png)  
 Fig 3. Performance graph for finding number of names containing a prefix
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/PerfSearch.png)  
 Fig 4. Performance graph for finding a name and its associated ID
 
 ## 3. Additional Considerations
