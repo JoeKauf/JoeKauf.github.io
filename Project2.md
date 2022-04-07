@@ -24,20 +24,20 @@ make run
 
 This program uses a command line UI. The program will take file input and output the information to the screen for the user to see.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+An HTML file will be read into the file to be parsed (see Fig 1). Output lets the user know that the file is being parsed (see Fig 2). The balance and page count of the file will be output to the screen (see Fig 3).
 
 ![screenshot](images/HTML.png)  
 Fig 1. HTML file to be parsed
 
 ![screenshot](images/End.png)  
-Fig 2. Example output after input is processed.
+Fig 2. File is being parsed
 
 ![screenshot](images/ParsingEnd.png)  
-Fig 3. Balance and visitable link count of file.
+Fig 3. Parse results
 
 ## 3. Additional Considerations
 
-This program only works for a limited number of tags and is not capable of webscraping. However, algorithms in this program may be implemented into programs that utilize webscraping.
+This program only works for specific tags and is not capable of webscraping. However, algorithms in this program may be implemented into programs that utilize webscraping.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
