@@ -22,9 +22,22 @@ add to their order. After each selection by the user, they will have the option 
 to that item, such as adding cheese, ketchup, etc. When the user is done with the order, they can enter
 ‘$’ and the program moves on to the checkout screen. The user will then see all the items they selected 
 and the prices of those items including all customizations. On the checkout screen, an options menu will
-be printed where the user can choose to execute certain tasks (by entering with a char variable) before making their payment, such as adding or removing an item, editing a customization, or proceed to checkout.
-     When the user chooses to move to the checkout and complete an order, they will be prompted to add a tip by entering either ‘Y’ or ‘N’. If the user chooses ‘N’ then the receipt including the subtotal, tax, and total will be printed. If ‘Y’ the user will be asked how much tip they would like to add. The tip is then added to the total cost. Next, the payment info screen will appear and the user can select their method of payment and enter their payment credentials. When the user is finished entering their payment info, they will have the option to finalize the payment (entering ‘f’), go back (entering ‘b’), or cancel (entering ‘c’) the order. If the user finalized the payment, the user will be notified if the payment was completed or not.
-    Lastly, after the order is complete for a certain restaurant, the user will be asked if they would like to leave a review on the restaurant. If ‘Y’ is entered, then the user can leave a rating and a text review that will be stored in a text file for other users to view later on if desired. If ‘N’ is entered, the program will move on to the next prompt. The user can either enter ‘e’ to successfully end the program, or enter ‘o’ to make another order. If ‘o’ is entered, the entire program will loop back to the beginning and allow another order to be made.
+be printed where the user can choose to execute certain tasks (by entering with a char variable) before 
+making their payment, such as adding or removing an item, editing a customization, or proceed to checkout.
+    When the user chooses to move to the checkout and complete an order, they will be prompted to add a 
+tip by entering either ‘Y’ or ‘N’. If the user chooses ‘N’ then the receipt including the subtotal, 
+tax, and total will be printed. If ‘Y’ the user will be asked how much tip they would like to add. 
+The tip is then added to the total cost. Next, the payment info screen will appear and the user can 
+select their method of payment and enter their payment credentials. When the user is finished entering 
+their payment info, they will have the option to finalize the payment (entering ‘f’), go back (entering 
+‘b’), or cancel (entering ‘c’) the order. If the user finalized the payment, the user will be notified 
+if the payment was completed or not.
+    Lastly, after the order is complete for a certain restaurant, the user will be asked if they would like
+to leave a review on the restaurant. If ‘Y’ is entered, then the user can leave a rating and a text 
+review that will be stored in a text file for other users to view later on if desired. If ‘N’ is entered,
+the program will move on to the next prompt. The user can either enter ‘e’ to successfully end the 
+program, or enter ‘o’ to make another order. If ‘o’ is entered, the entire program will loop back to the 
+beginning and allow another order to be made.
 
 
 ## How to compile and run the program
