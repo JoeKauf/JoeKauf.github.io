@@ -57,7 +57,7 @@ Presentations
 - **Grade: A**
 
 
-### [Restaurant Menu Presentation](/pdf/sample_presentation.pdf)
+### [Restaurant Menu Presentation](images/Restaurant Menu.mp4)
 
 - **Class: CSCI 325** 
 - **Grade: A**
