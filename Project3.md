@@ -21,15 +21,16 @@ plot - compiles the program
 
 data.out - outputs data from individual file to a file which will need to be renamed
 
-data.pdf - graphs the data from 3 renamed files. In order for this to work names must be renamed to "get.out", "mediumGet.out", "largeGet.out"
-
 mv data.out file.txt - renames data.out to the desired name
+
+data.pdf - graphs the data from 3 renamed files. In order for this to work names must be renamed to "get.out", "mediumGet.out", "largeGet.out"
 
 ```bash
 cd ./project1
 make plot
 make data.out
 mv data.out newName.out
+make data.pdf
 ```
 
 Note: You will have to change the size in "file-helper2.cpp" to get different sizes to measure the graphs. Find line 12 and change X to a number 50,000 or less. The program must be recompiled three times to be able to plot for the three sizes.
