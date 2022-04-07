@@ -43,7 +43,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-This program does not seek to connect nor can connect with APIs. 
+This program is a group project and not all of it was mine own. The majority of my role here was project management and project requirements for the team.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
