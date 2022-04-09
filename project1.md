@@ -7,7 +7,7 @@ Restaurant Menu
 -   **Grade: A** 
 -   **Language(s): Java** 
 -   **Source Code Repository: https://github.com/JoeKauf/CSCIRestaurantMenu** (https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:jakaufman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -33,13 +33,16 @@ This program uses a command line interface. The program outputs a menu and the u
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/Start.jpg)  
+![screenshot](images/Start.png)  
 Fig 1. The launch screen
 
-![screenshot](images/Order.jpg)  
+![screenshot](images/Order.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/Payment.jpg)  
+![screenshot](images/Receipt.png)  
+Fig 3. Example output after input is processed.
+
+![screenshot](images/Payment.png)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
