@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/PerfHowMany.png)
 
 ---
-### [Project 4 Title | CSCI 332](Project4)
+### [Performance Comparison of Treap and Splay Trees | CSCI 332](Project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
