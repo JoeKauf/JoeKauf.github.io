@@ -6,7 +6,7 @@
 -   **Class: CSCI 315** 
 -   **Grade: In Progress** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [ HTML Parser](https://github.com/JoeKauf/csci-315-spring-2022/tree/master/project2)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -39,6 +39,5 @@ Fig 3. Parse results
 
 This program only works for specific tags and is not capable of webscraping. However, algorithms in this program may be implemented into programs that utilize webscraping.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
