@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Performance Comparison of Treap and Splay Trees | CSCI 315](Project4)
 
-![Splay Frequency Performance](FreqSort.png)
+![Splay Frequency Performance](images/FreqSort.png)
 
 ---
 
