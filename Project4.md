@@ -64,10 +64,14 @@ sequential.pdf: splay.out treap2.out src/sequentialorder.plot
 	rm treap2.out 
 ```
 
+Enter these commanbds into the command line to compile and run the program:
 ```bash
 cd ./project1
 make plot
 
+# chosenname is a placeholder for the commands in the makefile.
+# This command can only be called once these data.out files have 
+# been created and renamed to "treap2.out", "spaly.out", "bst.out"
 make *chosenname*.pdf
 ```
 
