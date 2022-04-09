@@ -47,6 +47,6 @@ Fig 4. Make payment screen.
 
 ## 3. Additional Considerations
 
-This program is a group project and not all of it was mine own. The majority of my role here was project management and project requirements for the team.
+This program is a group project and not all of it was mine own. The majority of my role here was project management and project requirements for the team. Additionally, I was responsible for making the receipt and tip prompt.
 
 [Back to Portfolio](./)
