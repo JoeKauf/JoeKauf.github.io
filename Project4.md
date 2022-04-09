@@ -80,7 +80,7 @@ The user interface is a commandline interface which is operated by user makefile
 Fig 1. Frequency Sort Performance
 
 ![screenshot](images/RanLook.png)  
-Fig 2. Output of Random Lookups
+Fig 2. Random Lookup Performance
 
 
 ## Performance Analysis of Splay
