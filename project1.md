@@ -25,7 +25,7 @@ cd \csci325-Restaurant-menu-master\csci325-Restaurant-menu-master\RestarauntMenu
 java -cp ./src csu.csci325.RestarauntMenu
 ```
 
-Note: the class files are already included in the repo so they do not need to be compiled using javac.
+Note: the class files are already included in the repo so they do not need to be compiled using "javac".
 
 ## UI Design
 
