@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Large Map
+Performance Comparison of Splay and Treap Trees
 ===============
 
 -   **Class: CSCI 315** 
 -   **Grade: In Progress** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [Large Map](https://github.com/JoeKauf/csci-315-spring-2022/tree/master/project3)  
+-   **Source Code Repository:** [Performance Comparison of Splay and Treap Trees](https://github.com/JoeKauf/csci-315-spring-2022/tree/master/project3)  
     (Please [email me](mailto:jakaufman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
