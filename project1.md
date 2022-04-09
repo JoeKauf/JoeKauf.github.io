@@ -20,11 +20,12 @@ This program generates a food menu from some popular restaurants for the user to
 How to compile (if applicable) and run the project.
 
 ```bash
-cd \csci325-Restaurant-menu-master\csci325-Restaurant-menu-master\RestarauntMenu\src\csu\csci325
-STILL UPDATING
+cd \csci325-Restaurant-menu-master\csci325-Restaurant-menu-master\RestarauntMenu
+
+java -cp ./src csu.csci325.RestarauntMenu
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Note: the class files are already included in the repo so they do not need to be compiled using javac.
 
 ## UI Design
 
