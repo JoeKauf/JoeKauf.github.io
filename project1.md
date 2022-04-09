@@ -6,7 +6,7 @@ Restaurant Menu
 -   **Class: CSCI 325** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository: https://github.com/JoeKauf/CSCIRestaurantMenu** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository: https://github.com/JoeKauf/CSCIRestaurantMenu** (https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
