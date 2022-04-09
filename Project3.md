@@ -7,11 +7,11 @@ Large Map
 -   **Grade: In Progress** 
 -   **Language(s): C++** 
 -   **Source Code Repository:** [Large Map](https://github.com/JoeKauf/csci-315-spring-2022/tree/master/project1)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:jakaufman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This program is used to find a certain name from a file in an efficient amount of time. It takes input of around 50,000 first and last names. After this it outputs the time for finding a name's ID or HowMany instances a name's prefix there are.
+This program is used to find a certain name from a file in an efficient amount of time. It takes input of around 50,000 first and last names. After this it outputs the time for finding a name's ID or how many instances a name's prefix there are.
 
 ## How to compile and run the program
 
@@ -60,7 +60,5 @@ Fig 4. Performance graph for finding a name and its associated ID
 ## 3. Additional Considerations
 
 This program requires someone to be familiar with some C++ in order to manipulate data. Although the searching for names and getting IDs is Log(N), insertion is not.  
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
