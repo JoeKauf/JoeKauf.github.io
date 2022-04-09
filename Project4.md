@@ -16,27 +16,59 @@ This project visualizes and compares performance differences between two self-Ba
 
 ## How to compile and run the program
 
-Commands:
+The user will run the "make plot" command to compile and create a "data.out" file containing information for one of the Binary Trees. The user will change which tree to plot each time by commenting it out and recompiling each time.
 
-plot - compiles the program
+```main.cpp
+29	// SplayTree<int> tree;
+30	// Treap<int> tree;
+31      BinaryTree<int> tree; // This will be used to make a Standard Binary Tree
+```
+Here is a list of commands that one can run using the makefile
+```makefile
+# Creates a file named data.out that can be renamed to specified file name
+plot: src/main.cpp 
+	g++ ${CPPFLAGS} src/main.cpp src/splay.cpp src/treap2.cpp src/BST.cpp -o main
+	./main > data.out
 
-data.out - outputs data from individual file to a file which will need to be renamed
+#Creates the frequency pdf
+frequency.pdf: splay.out treap2.out bst.out src/frequency.plot
+	gnuplot src/frequency.plot
+	rm splay.out 
+	rm treap2.out 
+	rm bst.out 
 
-mv data.out file.txt - renames data.out to the desired name
+# Creates min and max performance
+minMax.pdf: splay.out treap2.out bst.out src/min_max.plot
+	gnuplot src/min_max.plot
+	rm splay.out 
+	rm treap2.out 
+	rm bst.out 
 
-data.pdf - graphs the data from 3 renamed files. In order for this to work names must be renamed to "get.out", "mediumGet.out", "largeGet.out"
+# Creates random lookup performance
+random.pdf: splay.out treap2.out bst.out src/randomlookup.plot
+	gnuplot src/randomlookup.plot
+	rm splay.out 
+	rm treap2.out 
+	rm bst.out 
+
+# Creates performance graph for insert
+insert.pdf: splay.out treap2.out src/insert.plot
+	gnuplot src/insert.plot
+	rm splay.out 
+	rm treap2.out 
+
+# Creates sequential performance graphs
+sequential.pdf: splay.out treap2.out src/sequentialorder.plot
+	gnuplot src/sequentialorder.plot
+	rm splay.out 
+	rm treap2.out 
+```
 
 ```bash
 cd ./project1
 make plot
-make data.out
-mv data.out newName.out
-make data.pdf
-```
 
-Note: You will have to change the size in "file-helper2.cpp" to get different sizes to measure the graphs. Find line 12 and change X to a number 50,000 or less. The program must be recompiled three times to be able to plot for the three sizes.
-```file-helper2.cpp
-12 const int MAX_NAME_COUNT = X;
+make *chosenname*.pdf
 ```
 
 
