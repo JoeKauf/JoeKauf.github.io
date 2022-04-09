@@ -11,7 +11,7 @@ Restaurant Menu
 
 ## Project description
 
-This program generates a food menu from some popular restaurants for the user to choose from. The user can choose where they would like to eat and choose their items. After this they will head to checkout and pay for their items. Once completed the user will have the option to leave a review or look at previous reviews. 
+This program generates a food menu from some popular restaurants for the user to choose from. The user can choose where they would like to eat and choose their items. After this, they will head to checkout and pay for their items. Once completed the user will have the option to leave a review. 
 
 
 
