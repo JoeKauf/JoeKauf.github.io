@@ -74,21 +74,14 @@ make *chosenname*.pdf
 
 ## UI Design
 
-The user interface is a commandline interface which is operated by user makefile commands. The user generates a performance graph based upon the data that has been manipulated.
+The user interface is a commandline interface which is operated by user makefile commands. The user generates a performance graph based upon the chosen algorithms.
 
-When the user enters the commands into the terminal (see Fig 1), the program runs behind the scenes. A text file is generated containing the timings for each size (see Fig 2). Once all of the timings have been created and appropriately named, the user can generate a graph (see Fig 3). Fig 4 displays the performance for finding a name's ID for sizes up to 50,000 names.
+![screenshot](images/FreqSort.png)  
+Fig 1. Frequency Sort Performance
 
-![screenshot](images/MapCommands.png)  
-Fig 1. Command line
+![screenshot](images/RanLook.png)  
+Fig 2. Output of Random Lookups
 
-![screenshot](images/MapOutData.png)  
-Fig 2. Data.out timings
-
-![screenshot](images/PerfHowMany.png)  
-Fig 3. Performance graph for finding number of names containing a prefix
-
-![screenshot](images/PerfSearch.png)  
-Fig 4. Performance graph for finding a name and its associated ID
 
 ## Performance Analysis of Splay
 
@@ -105,6 +98,15 @@ Fig 4. Performance graph for finding a name and its associated ID
   This Project helps in understanding differences between data structures with comparable Big O Notations. Splaying’s biggest advantage comes when data has certain frequencies to it. Treaps are faster regarding randomized data. When standard Binary Search Trees utilize random operations, they are slightly faster in due to not having calculate priority or rebalance as with inputted data. 
   Splaying theoretically should be faster than Treap and Binary Search Trees due to the utilization of caching. This is because memory lookup is slower than caching. When data is organized in a specific way, it complements the cache. [Here is more about my analysis] (https://github.com/JoeKauf/csci-315-spring-2022/blob/master/project3/Performance%20Comparison%20of%20Splay%20and%20Treap%20Trees.docx)
 
-## Performance Plots
+## Sources
+
+“Definition: Splay Tree.” Educative, https://www.educative.io/edpresso/definition-splay-tree . 
+“Locality and Splay Trees.” Cornell, 2007, https://www.cs.cornell.edu/courses/cs312/2007sp/lectures/lec24.html. 
+Nair, KK. “TREAP Data Structure.” Techie Delight, 30 Apr. 2021, https://www.techiedelight.com/treap-data-structure/. 
+“Splay Trees.” Cornell, 2013, https://www.cs.cornell.edu/courses/cs3110/2013sp/recitations/rec08-splay/rec08.html. 
+Taylor. “Randomness.” USNA, https://www.usna.edu/Users/cs/taylor/courses/ic312/units/treap/treap.html. 
+“Treap (Cartesian Tree).” Treap (Cartesian Tree) - Algorithms for Competitive Programming, https://cp-algorithms.com/data_structures/treap.html. 
+“Treap.” Gnarley Trees, https://people.ksp.sk/~kuko/gnarley-trees/Treap.html. 
+
 
 [Back to Portfolio](./)
