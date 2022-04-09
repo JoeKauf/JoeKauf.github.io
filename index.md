@@ -9,22 +9,22 @@ Programming Projects
 ---
 ### [Restaurant Menu | CSCI 325](project1)
 
-![Project 1 Thumbnail Name](images/Start.png)
+![Order Screen](images/Start.png)
 
 ---
 ### [HTML Parser | CSCI 315](Project2)
 
-![Project 2 Thumbnail Name](images/HTML.png)
+![HTML Page](images/HTML.png)
 
 ---
 ### [Large Map | CSCI 315](Project3)
 
-![Project 3 Thumbnail Name](images/PerfHowMany.png)
+![Performance of Map](images/PerfHowMany.png)
 
 ---
 ### [Performance Comparison of Treap and Splay Trees | CSCI 332](Project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Splay Frequency](images/dummy_thumbnail.jpg)
 
 ---
 
@@ -64,5 +64,3 @@ Presentations
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
-<!-- Remove above link if you don't want to attributive -->
