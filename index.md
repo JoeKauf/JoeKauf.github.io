@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Restaurant Menu | CSCI 325](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/Start.jpg)
 
 ---
 ### [HTML Parser | CSCI 315](Project2)
