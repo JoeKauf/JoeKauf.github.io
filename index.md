@@ -22,7 +22,7 @@ Programming Projects
 ![Performance of Map](images/PerfHowMany.png)
 
 ---
-### [Performance Comparison of Treap and Splay Trees | CSCI 332](Project4)
+### [Performance Comparison of Treap and Splay Trees | CSCI 315](Project4)
 
 ![Splay Frequency](images/dummy_thumbnail.jpg)
 
