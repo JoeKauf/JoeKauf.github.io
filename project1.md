@@ -31,24 +31,22 @@ Note: the class files are already included in the repo so they do not need to be
 
 This program uses a command line interface. The program outputs a menu and the user will interact with it by entering in responses based upon the screen's prompts.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+User is prompted to select between three menus (see Fig 1). Then the screen displays the options for the user to order (see Fig 2). After the user has made all of the selections, they now can see their tip (see Fig 3). Finally the user can input payment information (see Fig 4).
 
 ![screenshot](images/Start.png)  
-Fig 1. The launch screen
+Fig 1. User is prompted to choose a menu.
 
 ![screenshot](images/Order.png)  
-Fig 2. Example output after input is processed.
+Fig 2. User order screen.
 
 ![screenshot](images/Receipt.png)  
-Fig 3. Example output after input is processed.
+Fig 3. Receipt is output.
 
 ![screenshot](images/Payment.png)  
-Fig 3. Feedback when an error occurs.
+Fig 4. Make payment screen.
 
 ## 3. Additional Considerations
 
 This program is a group project and not all of it was mine own. The majority of my role here was project management and project requirements for the team.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
