@@ -36,12 +36,12 @@ Ethics Papers
 -   **Class: CSCI 315 Data Structures Analysis**  
 -   **Grade: In Progress**
 
-### [Ethics of Rushing Code to Market](/pdf/CSCI 325 Ethics Paper JAKaufman.docx)
+### [Ethics of Rushing Code to Market](/pdf/CSCI 325 Ethics Paper JAKaufman.pdf)
 
 -   **Class: CSCI 325 Object Oriented Programming** 
 -   **Grade: A**
 
-### [Copyright Ethics](pdf/SofSL Copyright Ethics Paper.pdf)
+### [Copyright Ethics](pdf/SofSL Copyright Ethics Paper(1).pdf)
 
 -   **Class: CSCI 301 Survey of Scripting Languages** 
 -   **Grade: A**
