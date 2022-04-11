@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [UFO Hacker](pdf/Sample CSCI 301 (2).pdf)
+### [UFO Hacker](pdf/Sample CSCI 301 (2) (2).pdf)
 
 - **Class: CSCI 301** 
 - **Grade: A**
