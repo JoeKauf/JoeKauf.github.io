@@ -27,6 +27,11 @@ Programming Projects
 ![Splay Frequency Performance](images/FreqSort.png)
 
 ---
+### [Applied Networking Portfolio Website | CSCI 332](Project5)
+
+![Splay Frequency Performance](images/FreqSort.png)
+
+---
 
 Ethics Papers
 -------------
