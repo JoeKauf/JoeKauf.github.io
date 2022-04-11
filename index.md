@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Testing and Therac-25](/pdf/CSCI315 Ethics Paper Joseph Kaufman (1).docx)
+### [Testing and Therac-25](/pdf/CSCI315 Ethics Paper Joseph Kaufman (1).pdf)
 
 -   **Class: CSCI 315 Data Structures Analysis**  
 -   **Grade: In Progress**
