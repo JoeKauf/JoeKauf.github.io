@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: CSCI 325 Object Oriented Programming** 
 -   **Grade: A**
 
-### [Copyright Ethics](pdf/SofSL Copyright Ethics Paper(1).pdf)
+### [Copyright Ethics](pdf/SofSL Copyright Ethics Paper (1).pdf)
 
 -   **Class: CSCI 301 Survey of Scripting Languages** 
 -   **Grade: A**
