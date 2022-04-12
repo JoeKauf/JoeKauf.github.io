@@ -6,6 +6,7 @@ Restaurant Menu
 -   **Class: CSCI 325** 
 -   **Grade: A** 
 -   **Language(s): Java** 
+-   **Group Members: Jared Andraszek, Jaye Engelhardt, Logan Ferguson, Joseph Kaufman, and Myles O’Toole**
 -   **Source Code Repository:** [Restaurant Menu](https://github.com/JoeKauf/CSCIRestaurantMenu/tree/main/RestarauntMenu)  
     (Please [email me](mailto:jakaufman@csustudent.net?subject=GitHub%20Access) to request access.)
 
