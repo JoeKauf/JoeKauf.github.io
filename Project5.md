@@ -36,7 +36,7 @@ Fig 3. CSS page with table and dropdown menu
 ![screenshot](images/invoice.png)  
 Fig 4. PHP store with one item selected
 
-![screenshot](images/invoice.png)  
+![screenshot](images/apStore.png)  
 Fig 5. PHP store after calculating total
 
 
