@@ -11,11 +11,11 @@ Applied Networking Website
 
 ## Project description
 
-Using this website I learned how to create forms, websites, use arrays in PHP, create CSS tables, and take input from users. We also learned how to create a store, display images, use PHP Get and Post, and use links. We also learned CSS formatting and how to make an attractive navbar and webpage.
+Using this website I learned how to create forms, websites, use arrays in PHP, create CSS tables, and take input from users. I also learned how to create a store, display images, use PHP Get and Post, and use links. CSS was used for styling the tables, navbars, and underlying HTML.
 
 ## How to compile and run the program
 
-In VS Code download the extension "Live Server". Once you have downloaded Live Server, right click on the index page at the front of the folder. In the drop down click "Open with Live Server". This will open up the server in your browser. From there you can access each page and navigate using the nav bar.
+In VS Code download the extension "Live Server". Once you have downloaded Live Server, right click on the index page at the front of the folder. In the drop down click "Open with Live Server". This will open up the server in your browser. From there you can access each page and navigate using the nav bar. For the PHP portion you will need to 
 
 ![screenshot](images/LiverServer.png)  
 Fig 1. Live Server dropdown
@@ -24,11 +24,20 @@ Fig 1. Live Server dropdown
 
 The UI is displayed in a web browser. Some of it is mainly HTML, but other parts of the project is PHP and CSS. Below are some screenshots of what it looks like:
 
-![screenshot](images/FreqSort.png)  
-Fig 1. Frequency Sort Performance
+![screenshot](images/webIndex.png)  
+Fig 1. Website with simple navbar
 
-![screenshot](images/RanLook.png)  
-Fig 2. Random Lookup Performance
+![screenshot](images/HTMLTable.png)  
+Fig 2. Basic Table
+
+![screenshot](images/CSS.png)  
+Fig 3. CSS page with table and dropdown menu
+
+![screenshot](images/invoice.png)  
+Fig 4. PHP store with one item selected
+
+![screenshot](images/invoice.png)  
+Fig 5. PHP store after calculating total
 
 
 ## Performance Analysis of Splay
