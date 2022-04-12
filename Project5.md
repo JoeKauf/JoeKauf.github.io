@@ -1,18 +1,17 @@
 [Back to Portfolio](./)
 
-Performance Comparison of Splay and Treap Trees
+Applied Networking Website
 ===============
 
 -   **Class: CSCI 315** 
--   **Grade: In Progress** 
--   **Language(s): C++** 
--   **Source Code Repository:** [Performance Comparison of Splay and Treap Trees](https://github.com/JoeKauf/csci-315-spring-2022/tree/master/project3)  
+-   **Grade: A** 
+-   **Language(s): HTML, CSS, and PHP** 
+-   **Source Code Repository:** [Applied Networking Website](https://github.com/JoeKauf/Applied-Netowrking-Website)  
     (Please [email me](mailto:jakaufman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This project visualizes and compares performance differences between two self-Balancing Binary Search Trees. Binary Search Trees are characterized by average case O(log2n) insert, remove, and searching times. However, in certain cases data can be input presorted. This causes the Binary Tree to resemble a linked list eliminating the added benefits of using a Binary Tree. 
-	Self-balancing Binary Search Trees seek to mitigate worst case scenario and try to ensure a consistent Log(N) performance. This is achieved by sorting the data when a particular case is reached. This is typically when the height of the tree becomes imbalanced. As we will see, this is not always the case will see with Splay.
+This website contains information that has helped me to learn the basics of designing a webpage. We learned how to create forms, websites, use arrays in PHP, create CSS tables, and take input from users. We also learned how to create user friendly websites that can complete certain tasks. This class helped us to learn basic internet protocols and how to create ethernet cables by using Category 5e wires.
 
 ## How to compile and run the program
 
