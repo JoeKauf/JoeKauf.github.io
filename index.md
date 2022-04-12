@@ -29,7 +29,7 @@ Programming Projects
 ---
 ### [Applied Networking Portfolio Website | CSCI 332](Project5)
 
-![Splay Frequency Performance](images/FreqSort.png)
+![Splay Frequency Performance](images/CSS.png)
 
 ---
 
