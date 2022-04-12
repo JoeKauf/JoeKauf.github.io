@@ -24,22 +24,19 @@ Live Server and PHP Server dropdowns
 
 ## UI Design
 
-The UI is displayed in a web browser. An HTML navbar with basic anchor tags can be seen in Fig 1. A basic HTML Table is exhibited in Fig2. In Fig 3, there is a CSS page that contains a dropdown menu for the problems and a formatted table using CSS. This project also implements PHP which is exhibited in the store. This is exhibited by when the user calculates their total for the store, it is all on the same page (Fig 4, 5).
+The UI is displayed in a web browser. An HTML navbar with basic anchor tags can be seen in Fig 1. In Fig 2, there is a CSS page that contains a dropdown menu for the problems and a formatted table using CSS. This project also implements PHP which is exhibited in the store. This is exhibited by when the user calculates their total for the store, it is all on the same page (Fig 3, 4).
 
 ![screenshot](images/webIndex.png)  
 Fig 1. Website with simple navbar
 
-![screenshot](images/HTMLTable.png)  
-Fig 2. Basic Table
-
 ![screenshot](images/CSS.png)  
-Fig 3. CSS page with table and dropdown menu
+Fig 2. CSS page with table and dropdown menu
 
 ![screenshot](images/apStore.png)  
-Fig 4. PHP store with one item selected
+Fig 3. PHP store with one item selected
 
 ![screenshot](images/invoice.png)  
-Fig 5. PHP store after calculating total
+Fig 4. PHP store after calculating total
 
 ## Additional Considerations
 
