@@ -11,15 +11,18 @@ Applied Networking Website
 
 ## Project description
 
-This website contains information that has helped me to learn the basics of designing a webpage. We learned how to create forms, websites, use arrays in PHP, create CSS tables, and take input from users. We also learned how to create user friendly websites that can complete certain tasks. This class helped us to learn basic internet protocols and how to create ethernet cables by using Category 5e wires.
+Using this website I learned how to create forms, websites, use arrays in PHP, create CSS tables, and take input from users. We also learned how to create a store, display images, use PHP Get and Post, and use links. We also learned CSS formatting and how to make an attractive navbar and webpage.
 
 ## How to compile and run the program
 
 In VS Code download the extension "Live Server". Once you have downloaded Live Server, right click on the index page at the front of the folder. In the drop down click "Open with Live Server". This will open up the server in your browser. From there you can access each page and navigate using the nav bar.
 
+![screenshot](images/LiverServer.png)  
+Fig 1. Live Server dropdown
+
 ## UI Design
 
-The user interface is a commandline interface which is operated by user makefile commands. The user generates a performance graph based upon the chosen algorithms.
+The UI is displayed in a web browser. Some of it is mainly HTML, but other parts of the project is PHP and CSS. Below are some screenshots of what it looks like:
 
 ![screenshot](images/FreqSort.png)  
 Fig 1. Frequency Sort Performance
