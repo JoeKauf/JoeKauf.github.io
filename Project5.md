@@ -39,6 +39,6 @@ Fig 3. PHP store with one item selected
 Fig 4. PHP store after calculating total
 
 ## Additional Considerations
-
+Some of this website is still being worked on so the navbar does not work for Labs 5, 7, and 8. 
 
 [Back to Portfolio](./)
