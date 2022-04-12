@@ -15,65 +15,7 @@ This website contains information that has helped me to learn the basics of desi
 
 ## How to compile and run the program
 
-The user will run the "make plot" command to compile and create a "data.out" file containing information for one of the Binary Trees. The user will change which tree to plot each time by commenting it out and recompiling each time.
-
-```main.cpp
-29	// SplayTree<int> tree;
-30	// Treap<int> tree;
-31      BinaryTree<int> tree; // This will be used to make a Standard Binary Tree
-```
-Here is a list of commands that one can run using the makefile
-```makefile
-# Creates a file named data.out that can be renamed to specified file name
-plot: src/main.cpp 
-	g++ ${CPPFLAGS} src/main.cpp src/splay.cpp src/treap2.cpp src/BST.cpp -o main
-	./main > data.out
-
-#Creates the frequency pdf
-frequency.pdf: splay.out treap2.out bst.out src/frequency.plot
-	gnuplot src/frequency.plot
-	rm splay.out 
-	rm treap2.out 
-	rm bst.out 
-
-# Creates min and max performance
-minMax.pdf: splay.out treap2.out bst.out src/min_max.plot
-	gnuplot src/min_max.plot
-	rm splay.out 
-	rm treap2.out 
-	rm bst.out 
-
-# Creates random lookup performance
-random.pdf: splay.out treap2.out bst.out src/randomlookup.plot
-	gnuplot src/randomlookup.plot
-	rm splay.out 
-	rm treap2.out 
-	rm bst.out 
-
-# Creates performance graph for insert
-insert.pdf: splay.out treap2.out src/insert.plot
-	gnuplot src/insert.plot
-	rm splay.out 
-	rm treap2.out 
-
-# Creates sequential performance graphs
-sequential.pdf: splay.out treap2.out src/sequentialorder.plot
-	gnuplot src/sequentialorder.plot
-	rm splay.out 
-	rm treap2.out 
-```
-
-Enter these commanbds into the command line to compile and run the program:
-```bash
-cd ./project1
-make plot
-
-# chosenname is a placeholder for the commands in the makefile.
-# This command can only be called once these data.out files have 
-# been created and renamed to "treap2.out", "spaly.out", "bst.out"
-make *chosenname*.pdf
-```
-
+In VS Code download the extension "Live Server". Once you have downloaded Live Server, right click on the index page at the front of the folder. In the drop down click "Open with Live Server". This will open up the server in your browser. From there you can access each page and navigate using the nav bar.
 
 ## UI Design
 
