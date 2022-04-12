@@ -15,10 +15,12 @@ Using this website I learned how to create forms, websites, use arrays in PHP, c
 
 ## How to compile and run the program
 
-In VS Code download the extension "Live Server". Once you have downloaded Live Server, right click on the index page at the front of the folder. In the drop down click "Open with Live Server". This will open up the server in your browser. From there you can access each page and navigate using the nav bar. For the PHP portion you will need to 
+In VS Code download the extension "Live Server". Once you have downloaded Live Server, right click on the index page at the front of the folder. In the drop down click "Open with Live Server". This will open up the server in your browser. From there you can access each page and navigate using the nav bar. 
+
+For the files that end in ".php", you will need to click "PHP Server: Serve project". This will allow the PHP to be run and not just the HTML.
 
 ![screenshot](images/LiverServer.png)  
-Fig 1. Live Server dropdown
+Live Server and PHP Server dropdowns
 
 ## UI Design
 
